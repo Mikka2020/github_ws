@@ -3,3 +3,7 @@
 ## pullrequest
 
 add:method1
+
+## 機能2追加
+
+
